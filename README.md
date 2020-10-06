@@ -1,7 +1,10 @@
 # APS-component-failure-classification
-This is an end to end case study on APS component failure classification in Scania Trucks
+This is an end-to-end case study on APS component failure classification in Scania Trucks
 
 Dataset: [APS Failure at Scania Trucks Data Set](https://archive.ics.uci.edu/ml/datasets/APS+Failure+at+Scania+Trucks)
+
+You can aslo refer my blog on 'Medium' about this case-study work.
+Blog Link: [APS component failure classification in Scania Trucks](https://medium.com/@akhilpenta007/aps-component-failure-classification-in-scania-trucks-a971fcf71846)
 
 ## Contents:
 
@@ -40,7 +43,8 @@ Dataset: [APS Failure at Scania Trucks Data Set](https://archive.ics.uci.edu/ml/
         5.1.1 Upsampling function
         5.1.2 utility function for Hyperparameter tuning and for extracting & saving result values
         5.1.3 Functions for implementing MetaLearnClassifier
-        5.1.4 utility function for MetaLearnClassifier: Hyperparameter tuning, Computing and reporting scores of classifier model
+        5.1.4 utility function for MetaLearnClassifier: Hyperparameter tuning, 
+                  Computing and reporting scores of classifier model
       5.2 Median Imputed Dataset
         5.2.1 loading Train, CV & Test datasets & Upsampling train dataset
         5.2.2 LogisticRegression on Median Imputed Data
